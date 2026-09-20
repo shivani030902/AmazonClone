@@ -1,1 +1,1 @@
-#This is the clone of amazon by using html css in that i learn how to add the navigation bar in the header &footer add the content in the body and how to style all with css
+# This is the clone of amazon by using html css in that i learn how to add the navigation bar in the header &footer add the content in the body and how to style all with css
